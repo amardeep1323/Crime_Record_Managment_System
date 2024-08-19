@@ -9,7 +9,7 @@ include('header.php');
 
 
 
-<div  class="container-fluid" style="margin-top;80px">
+<div  class="container-fluid" style="margin: top 80px">
 	<?php include('menubar.php')?>
 	<div class="col-md-1"></div>
 </div>
@@ -26,4 +26,4 @@ include('header.php');
 <?php include('scripts.php'); ?>
 
 </body>
-</html>
+</html> 
